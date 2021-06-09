@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Sport &#8211; UThukela Economic Development Agency</title>
-	<atom:link href="http://127.0.0.1/wordpress/category/sport/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress/category/sport/feed/" rel="self" type="application/rss+xml" />
 	<link>./../../../index.html</link>
 	<description>UThukela Economic Development Agency</description>
 	<lastBuildDate>Thu, 09 Jul 2020 07:10:10 +0000</lastBuildDate>
@@ -52,7 +52,7 @@
 
 
 
-<div class="wp-block-image align-wrap-left alignwide"><figure class="alignleft size-large is-resized"><img loading="lazy" src="./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash.jpg" alt="" class="wp-image-310" width="401" height="300" srcset="./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash.jpg 1000w, ./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash-300x225.jpg 300w, ./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash-768x576.jpg 768w" sizes="(max-width: 401px) 100vw, 401px" /><figcaption>Image caption</figcaption></figure></div>
+<div class="wp-block-image align-wrap-left alignwide"><figure class="alignleft size-large is-resized"><img loading="lazy" src="http://127.0.0.1:8080/wordpress/wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash.jpg" alt="" class="wp-image-310" width="401" height="300" srcset="./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash.jpg 1000w, ./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash-300x225.jpg 300w, ./../../../wp-content/uploads/2020/07/seth-doyle-YEK-1BZ7L1s-unsplash-768x576.jpg 768w" sizes="(max-width: 401px) 100vw, 401px" /><figcaption>Image caption</figcaption></figure></div>
 
 
 
