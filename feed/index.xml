@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2021/06/ueda-logo-150x127.png</url>
+	<title>UThukela Economic Development Agency</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Mauris Cursus Mattis Molestie Aaculis Oterat Pellentesque</title>
 		<link>./../2020/07/09/mauris-cursus-mattis-molestie-aaculis-oterat-pellentesque/index.html</link>
