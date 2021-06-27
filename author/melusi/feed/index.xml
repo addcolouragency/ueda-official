@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>melusi &#8211; ueda</title>
+	<title>melusi &#8211; UThukela Economic Development Agency</title>
 	<atom:link href="http://localhost/wordpress/author/melusi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://addcolouragency.github.io/ueda-official</link>
-	<description>Just another WordPress site</description>
+	<description></description>
 	<lastBuildDate>Tue, 18 Aug 2020 16:31:29 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://addcolouragency.github.io/ueda-official/wp-content/uploads/2021/06/cropped-ueda-logo-32x32.png</url>
+	<title>melusi &#8211; UThukela Economic Development Agency</title>
+	<link>https://addcolouragency.github.io/ueda-official</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Elementum Curabitur Vitaenunc Sedvelit</title>
 		<link>https://addcolouragency.github.io/ueda-official/2020/08/18/elementum-curabitur-vitaenunc-sed-velit/</link>
